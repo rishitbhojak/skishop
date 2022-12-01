@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DDYvkP0j8DxV8Z4IFxymToPEObql58bGHTQrwgyeFJltAE0b6lbd8EVqM/cJtseeqQz0mDO5bHHNG66eNdvoiQ==",
+  "dgSpecHash": "nhca9DTVt7MDXpPy4iG+/S4xy59aeY+C8gx2O0alGUI7HJvH1bKVNlBkLLcsp02ZCIHilOsBA7JnNxYIfX9ZFg==",
   "success": true,
-  "projectFilePath": "c:\\Web Project Portfolio\\SkiCommerce\\SkiCommerce\\API\\API.csproj",
+  "projectFilePath": "C:\\Web Project Portfolio\\SkiCommerce\\SkiCommerce\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rajab\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\rajab\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
